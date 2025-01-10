@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "8D39GIX0CZMo4kHiURKNUluTkI5NwgbzrqH1rsqCY0c=",
+  "Source": "minio",
+  "BasePath": "_content/minio",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "minio\\wwwroot",
+      "Source": "minio",
+      "ContentRoot": "D:\\PROJECT\\minio\\minio\\wwwroot\\",
+      "BasePath": "_content/minio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

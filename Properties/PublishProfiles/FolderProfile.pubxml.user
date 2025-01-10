@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish\carecheck</_PublishTargetUrl>
+    <History>True|2025-01-02T06:19:49.7187919Z||;True|2025-01-02T11:47:54.9091337+05:30||;True|2025-01-02T11:45:58.5432476+05:30||;True|2025-01-02T11:45:25.7749464+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
